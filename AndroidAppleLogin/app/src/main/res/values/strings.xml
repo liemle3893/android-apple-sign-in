@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Android Apple Login</string>
+    <string name="sign_in_with_apple">Sign in with Apple</string>
+    <string name="sign_in_failed">Sign in failed</string>
+    <string name="sign_in_cancelled">Sign in was cancelled</string>
+    <string name="authentication_error">Authentication error</string>
+    <string name="user_profile">User Profile</string>
+    <string name="welcome">Welcome</string>
+    <string name="user_id">User ID: %1$s</string>
+    <string name="email">Email: %1$s</string>
+    <string name="name">Name: %1$s</string>
+    <string name="log_out">Log Out</string>
+    <string name="sign_in_title">Sign In</string>
+    <string name="loading">Loading…</string>
+    <string name="enter_code_manually">Enter Sign In Code Manually</string>
+    <string name="complete_sign_in">Complete Sign In with Apple</string>
+    <string name="auth_code_instructions">Please enter the authorization code from the web browser to complete your sign in. You can find this information in the URL or on the final page after signing in with Apple.</string>
+    <string name="auth_code_hint">Authorization Code</string>
+    <string name="id_token_hint">ID Token (Optional)</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="auth_code_required">Authorization code is required</string>
+    <string name="sign_in_details_submitted">Sign-in details submitted</string>
+    <string name="browser_sign_in_message">Please complete sign in through the browser</string>
+</resources> 
